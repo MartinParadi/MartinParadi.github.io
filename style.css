@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 *{
     margin: 0;
@@ -55,60 +55,3 @@ header{
     color: #ff5555; 
     transition: .5s;
 }
-=======
-
-*{
-    margin: 0;
-    padding: 0;
-    font-family:'Poppins', sans-serif;
-}
-
-header{
-    min-height: 8vh;
-    width: auto;
-    background-color: #282828;
-    color: white;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.nav-links li{
-    display: inline-block;
-    margin: 10px;
-}
-
-.nav-logo img{
-    border-style:outset;
-    height: 6vh;
-    margin: 0px 20px;
-}
-
-.nav-brandname {
-    margin-right: 1300px;
-}
-
-
-.nav-brandname a{
-    text-decoration:none;
-    color: white;
-}
-.nav-links a{
-    text-decoration: none;
-    color: white;
-    padding: 5px 15px;
-    background: white;
-   border-radius: 25px;
-   font-size: 13px;
-   color: black;
-   font-weight: 700;
-   cursor: pointer;
-   outline: none;
-}
- 
-.nav-links a:hover{
-    color: #ff5555; 
-    transition: .5s;
-}
->>>>>>> 9e6b33c0357bc0612f999116fc29cab314353a93
