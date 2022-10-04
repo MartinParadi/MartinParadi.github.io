@@ -55,3 +55,18 @@ header{
     color: #ff5555; 
     transition: .5s;
 }
+
+.imgteszt img{
+    -webkit-filter: brightness(100%);
+}
+
+.imgteszt img:hover{
+    -webkit-filter: brightness(60%);
+    transition: .5s;
+}
+
+.des{
+    position: relative;
+    bottom: 150pt;
+    color: white;
+}
