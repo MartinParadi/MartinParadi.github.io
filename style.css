@@ -6,6 +6,10 @@
     font-family:'Poppins', sans-serif;
 }
 
+body{
+    background: linear-gradient(60deg, #0000aa, #aa0000);
+}
+
 header{
     min-height: 8vh;
     width: auto;
@@ -58,6 +62,11 @@ header{
 
 .imgteszt img{
     -webkit-filter: brightness(100%);
+    width: 20vh;
+    position: 2px;
+    border: 2px;
+    border-radius: 2px;
+    border-style: ridge;
 }
 
 .imgteszt img:hover{
@@ -70,3 +79,15 @@ header{
     bottom: 150pt;
     color: white;
 }
+
+.felsohatter {
+    height: 50vh;
+    width: 100%;
+    background-image: url(reyna-background.jpg);
+    background-size: cover;
+    background-position-y: center;
+    background-position-x:0px;
+    background-color: #282828;
+    -webkit-filter: brightness(70%);
+}
+
