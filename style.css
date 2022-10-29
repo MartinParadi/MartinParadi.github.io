@@ -3,19 +3,18 @@
 *{
     margin: 0;
     padding: 0;
-    font-family:'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 body{
     background: linear-gradient(60deg, #0000aa, #aa0000);
 }
 
-header{
+.navheader{
     min-height: 8vh;
     width: auto;
     background-color: #282828;
     color: white;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,17 +68,6 @@ header{
     border-style: ridge;
 }
 
-.imgteszt img:hover{
-    -webkit-filter: brightness(60%);
-    transition: .5s;
-}
-
-.des{
-    position: relative;
-    bottom: 150pt;
-    color: white;
-}
-
 .felsohatter {
     height: 50vh;
     width: 100%;
@@ -87,7 +75,129 @@ header{
     background-size: cover;
     background-position-y: center;
     background-position-x:0px;
-    background-color: #282828;
-    -webkit-filter: brightness(70%);
+    -webkit-filter: brightness(80%);
+    border-bottom-left-radius: 200px;
 }
 
+.welcome1 {
+    font-size: 60px;
+    padding-top: 170px;
+    color:white;
+    text-align: center;
+}
+
+.welcome2{
+    font-size: 30px;
+    padding-top: 10px;
+    color:white;
+    text-align: center;
+}
+
+
+h1{
+    color: white;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.header1, .header2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Duelist{
+    cursor: pointer;
+    border: 3px solid black;
+    margin: 50px;
+}
+
+.phoenix img{
+    width: 400px;
+    height: 450px;
+    margin: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 5px #282828;
+}
+
+.phoenix img:hover{
+    -webkit-filter: brightness(50%);
+    transition: .5s;
+}
+.jett img{
+    width: 400px;
+    height: 450px;
+    margin: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 5px #282828;
+    background-size: cover;
+}
+
+.jett img:hover{
+    -webkit-filter: brightness(50%);
+    transition: .5s;
+}
+
+.Reyna img{
+    width: 400px;
+    height: 450px;
+    margin: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 5px #282828;
+    background-size: cover;
+}
+
+.Reyna img:hover{
+    -webkit-filter: brightness(50%);
+    transition: .5s;
+}
+
+.Raze img{
+    width: 400px;
+    height: 450px;
+    margin: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 5px #282828;
+    background-size: cover;
+}
+
+.Raze img:hover{
+    -webkit-filter: brightness(50%);
+    transition: .5s;
+}
+
+.Yoru img{
+    width: 400px;
+    height: 450px;
+    margin: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 5px #282828;
+    background-size: cover;
+}
+
+.Yoru img:hover{
+    -webkit-filter: brightness(50%);
+    transition: .5s;
+}
+
+.Neon img{
+    width: 400px;
+    height: 450px;
+    margin: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 5px #282828;
+    background-size: cover;
+}
+
+.Neon img:hover{
+    -webkit-filter: brightness(50%);
+    transition: .5s;
+}
