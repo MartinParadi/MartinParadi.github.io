@@ -193,7 +193,7 @@ h1{
 }
 
 .crop1{
-    width: 1920px;
+    width: 1903px;
     overflow: hidden;
     display: block;
     height: 640px;
@@ -822,4 +822,14 @@ h3{
    margin-left: 40px;
    margin-top: 10px;
    font-size: 30px;
+}
+
+.botheader{
+    min-height: 8vh;
+    width: auto;
+    background-color: #282828;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
