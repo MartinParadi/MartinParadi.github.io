@@ -96,12 +96,6 @@ h1{
     font-size: 40px;
 }
 
-.header1, .header2, .header3, .header4, .header5, .header6, .header7, .header8 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 
 .phoenix img{
     width: 400px;
@@ -832,4 +826,9 @@ h3{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+p{
+    display: inline-flex;
+    margin-left: 5%;
 }
