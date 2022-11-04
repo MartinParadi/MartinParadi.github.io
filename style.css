@@ -193,7 +193,7 @@ h1{
 }
 
 .crop1{
-    width: 1903px;
+    width: 100%;
     overflow: hidden;
     display: block;
     height: 640px;
@@ -216,8 +216,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 252px;
-    top: 1250px;
+    left: 12.3%;
+    top: 129.2%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -236,8 +236,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 752px;
-    top: 1250px;
+    left: 39.2%;
+    top: 129.2%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -256,8 +256,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1252px;
-    top: 1250px;
+    left: 66.15%;
+    top: 129.2%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -276,8 +276,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 252px;
-    top: 1802px;
+    left: 12.3%;
+    top: 186.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -296,8 +296,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 752px;
-    top: 1802px;
+    left: 39.2%;
+    top: 186.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -316,8 +316,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1252px;
-    top: 1802px;
+    left: 66.15%;
+    top: 186.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -549,8 +549,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 252px;
-    top: 2451px;
+    left: 12.3%;
+    top: 253.2%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -569,8 +569,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 752px;
-    top: 2451px;
+    left: 39.2%;
+    top: 253.2%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -589,8 +589,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1252px;
-    top: 2451px;
+    left: 66.15%;
+    top: 253.2%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -609,8 +609,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 502px;
-    top: 3004px;
+    left:25.75%;
+    top: 310.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -629,8 +629,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1002px;
-    top: 3004px;
+    left: 52.7%;
+    top: 310.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -649,8 +649,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 252px;
-    top: 3653px;
+    left: 12.3%;
+    top: 377.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -669,8 +669,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 752px;
-    top: 3653px;
+    left: 39.2%;
+    top: 377.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -689,8 +689,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1252px;
-    top: 3653px;
+    left: 66.15%;
+    top: 377.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -709,8 +709,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 752px;
-    top: 4206px;
+    left: 39.2%;
+    top: 434.35%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -730,8 +730,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 252px;
-    top: 4855px;
+    left: 12.3%;
+    top: 501.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -750,8 +750,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 752px;
-    top: 4855px;
+    left: 39.2%;
+    top: 501.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -770,8 +770,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1252px;
-    top: 4855px;
+    left: 66.15%;
+    top: 501.3%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -790,8 +790,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 502px;
-    top: 5408px;
+    left: 25.75%;
+    top: 558.4%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -810,8 +810,8 @@ h3{
     background: gray;
     position: absolute;
     z-index: 2;
-    left: 1002px;
-    top: 5408px;
+    left: 52.7%;
+    top: 558.4%;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
