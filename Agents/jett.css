@@ -38,6 +38,7 @@ body{
 .nav-brandname a{
     text-decoration:none;
     color: white;
+    font-size: 21px;
 }
 .nav-links a{
     text-decoration: none;
@@ -55,4 +56,36 @@ body{
 .nav-links a:hover{
     color: #ff5555; 
     transition: .5s;
+}
+
+.jett2{
+    margin: 20px;
+    float: left;
+}
+
+h1{
+    font-family: Aldrich;
+    font-size: 60px;
+    margin: 20px;
+    color: white;
+}
+
+.bemutatkozas{
+    color: orange;
+    font-family: Ubuntu;
+    font-size: 20px;
+}
+
+h2{
+    font-family: Aldrich;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+p{
+    color: white;
+    font-family: Ubuntu;
+    font-size: 20px;
 }
