@@ -98,8 +98,8 @@ h1{
 
 
 .phoenix img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -111,8 +111,8 @@ h1{
     transition: .5s;
 }
 .jett img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -126,8 +126,8 @@ h1{
 }
 
 .Reyna img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -141,8 +141,8 @@ h1{
 }
 
 .Raze img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -156,8 +156,8 @@ h1{
 }
 
 .Yoru img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -171,8 +171,8 @@ h1{
 }
 
 .Neon img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -200,12 +200,13 @@ h1{
 }
 
 h3{
-    font-family: 'Aldrich'
+    font-family: "Aldrich";
+    font-size: 25px;
 }
 
 .astra img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -219,8 +220,8 @@ h3{
 }
 
 .omen img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -234,8 +235,8 @@ h3{
 }
 
 .viper img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -249,8 +250,8 @@ h3{
 }
 
 .harbor img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -264,8 +265,8 @@ h3{
 }
 
 .brimstone img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -279,8 +280,8 @@ h3{
 }
 
 .chamber img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -294,8 +295,8 @@ h3{
 }
 
 .cypher img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -309,8 +310,8 @@ h3{
 }
 
 .killjoy img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -324,8 +325,8 @@ h3{
 }
 
 .sage img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -339,8 +340,8 @@ h3{
 }
 
 .breach img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -354,8 +355,8 @@ h3{
 }
 
 .kayo img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -369,8 +370,8 @@ h3{
 }
 
 .skye img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -384,8 +385,8 @@ h3{
 }
 
 .sova img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
@@ -399,13 +400,12 @@ h3{
 }
 
 .fade img{
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     margin: 50px;
     border-radius: 50px;
     cursor: pointer;
     border: 5px #282828;
-    z-index: 1;
 }
 
 .fade img:hover{
@@ -425,5 +425,5 @@ h3{
 
 p{
     display: inline-flex;
-    margin-left: 5%;
+    margin-left: 3%;
 }
