@@ -109,6 +109,7 @@ h1{
 .phoenix img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 .jett img{
     width: 300px;
@@ -123,6 +124,7 @@ h1{
 .jett img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .Reyna img{
@@ -138,6 +140,7 @@ h1{
 .Reyna img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .Raze img{
@@ -153,6 +156,7 @@ h1{
 .Raze img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .Yoru img{
@@ -168,6 +172,7 @@ h1{
 .Yoru img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .Neon img{
@@ -183,6 +188,7 @@ h1{
 .Neon img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .crop1{
@@ -217,6 +223,7 @@ h3{
 .astra img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .omen img{
@@ -232,6 +239,7 @@ h3{
 .omen img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .viper img{
@@ -247,6 +255,7 @@ h3{
 .viper img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .harbor img{
@@ -262,6 +271,7 @@ h3{
 .harbor img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .brimstone img{
@@ -277,6 +287,7 @@ h3{
 .brimstone img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .chamber img{
@@ -292,6 +303,7 @@ h3{
 .chamber img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .cypher img{
@@ -307,6 +319,7 @@ h3{
 .cypher img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .killjoy img{
@@ -322,6 +335,7 @@ h3{
 .killjoy img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .sage img{
@@ -337,6 +351,7 @@ h3{
 .sage img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .breach img{
@@ -352,6 +367,7 @@ h3{
 .breach img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .kayo img{
@@ -367,6 +383,7 @@ h3{
 .kayo img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .skye img{
@@ -382,6 +399,7 @@ h3{
 .skye img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .sova img{
@@ -397,6 +415,7 @@ h3{
 .sova img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .fade img{
@@ -411,6 +430,7 @@ h3{
 .fade img:hover{
     -webkit-filter: brightness(50%);
     transition: .5s;
+    transform: scale(110%);
 }
 
 .botheader{
