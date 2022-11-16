@@ -111,6 +111,11 @@ h1{
     transition: .5s;
     transform: scale(110%);
 }
+
+.phoenix img:active{
+    transform: scale(100%);
+}
+
 .jett img{
     width: 300px;
     height: 300px;
@@ -125,6 +130,10 @@ h1{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.jett img:active{
+    transform: scale(100%);
 }
 
 .Reyna img{
@@ -143,6 +152,10 @@ h1{
     transform: scale(110%);
 }
 
+.Reyna img:active{
+    transform: scale(100%);
+}
+
 .Raze img{
     width: 300px;
     height: 300px;
@@ -157,6 +170,10 @@ h1{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.Raze img:active{
+    transform: scale(100%);
 }
 
 .Yoru img{
@@ -175,6 +192,10 @@ h1{
     transform: scale(110%);
 }
 
+.Yoru img:active{
+    transform: scale(100%);
+}
+
 .Neon img{
     width: 300px;
     height: 300px;
@@ -189,6 +210,10 @@ h1{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.Neon img:active{
+    transform: scale(100%);
 }
 
 .crop1{
@@ -226,6 +251,10 @@ h3{
     transform: scale(110%);
 }
 
+.astra img:active{
+    transform: scale(100%);
+}
+
 .omen img{
     width: 300px;
     height: 300px;
@@ -240,6 +269,10 @@ h3{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.omen img:active{
+    transform: scale(100%);
 }
 
 .viper img{
@@ -258,6 +291,10 @@ h3{
     transform: scale(110%);
 }
 
+.viper img:active{
+    transform: scale(100%);
+}
+
 .harbor img{
     width: 300px;
     height: 300px;
@@ -272,6 +309,10 @@ h3{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.harbor img:active{
+    transform: scale(100%);
 }
 
 .brimstone img{
@@ -290,6 +331,10 @@ h3{
     transform: scale(110%);
 }
 
+.brimstone img:active{
+    transform: scale(100%);
+}
+
 .chamber img{
     width: 300px;
     height: 300px;
@@ -304,6 +349,10 @@ h3{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.chamber img:active{
+    transform: scale(100%);
 }
 
 .cypher img{
@@ -322,6 +371,10 @@ h3{
     transform: scale(110%);
 }
 
+.cypher img:active{
+    transform: scale(100%);
+}
+
 .killjoy img{
     width: 300px;
     height: 300px;
@@ -336,6 +389,10 @@ h3{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.killjoy img:active{
+    transform: scale(100%);
 }
 
 .sage img{
@@ -354,6 +411,10 @@ h3{
     transform: scale(110%);
 }
 
+.sage img:active{
+    transform: scale(100%);
+}
+
 .breach img{
     width: 300px;
     height: 300px;
@@ -368,6 +429,10 @@ h3{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+
+.breach img:active{
+    transform: scale(100%);
 }
 
 .kayo img{
@@ -386,6 +451,10 @@ h3{
     transform: scale(110%);
 }
 
+.kayo img:active{
+    transform: scale(100%);
+}
+
 .skye img{
     width: 300px;
     height: 300px;
@@ -400,6 +469,9 @@ h3{
     -webkit-filter: brightness(50%);
     transition: .5s;
     transform: scale(110%);
+}
+.skye img:active{
+    transform: scale(100%);
 }
 
 .sova img{
@@ -418,6 +490,11 @@ h3{
     transform: scale(110%);
 }
 
+.sova img:active{
+    transform: scale(100%);
+}
+
+
 .fade img{
     width: 300px;
     height: 300px;
@@ -433,6 +510,10 @@ h3{
     transform: scale(110%);
 }
 
+.fade img:active{
+    transform: scale(100%);
+}
+
 .botheader{
     min-height: 8vh;
     width: auto;
@@ -446,4 +527,16 @@ h3{
 p{
     display: inline-flex;
     margin-left: 3%;
+}
+
+tr, td{
+    border: 1px solid white;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
 }
